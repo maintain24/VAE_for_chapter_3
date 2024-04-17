@@ -1,0 +1,21 @@
+Unnamed: 0,Performances,SMILES,Length,ElementTypes
+3,2.70546606,CCC(=O)OC[C@H]1OC[C@H](O)[C@@H](O)[C@@H]1O,42,2
+4,9.64811718,O=c1ccc2[c:6](-[c:5]3[cH:3][cH:1][c:11](NC(=S)/N=C/OC[C@H]4OC[C@H](O)[C@@H](O)[C@@H]4O)[cH:9][c:7]3[C:1](=[O:2])[OH:3])c3ccc(O)cc3oc-2c1,136,4
+5,9.72812277,C[c:6]1[cH:1][c:2]([CH3:1])[cH:3][c:4](NC(=O)OC[C@@H]2C[C@H](OC(=O)N[c:4]3[cH:3][c:2]([CH3:1])[cH:1][c:6](C)[cH:5]3)[C@@H](OC(=O)N[c:4]3[cH:3][c:2]([CH3:1])[cH:1][c:6](C)[cH:5]3)[C@H](O)O2)[cH:5]1,196,3
+7,2.47779154,O=P(O)(O)OC[C@H]1OC[C@H](O)[C@@H](O)[C@@H]1O,44,3
+8,2.41206654,O=[P@H](O)OC[C@H]1OC[C@H](O)[C@@H](O)[C@@H]1O,45,3
+9,2.46933028,OC[C@@H](OCCN[CH3:1])[C@@H](O)CN[CH3:1],39,3
+10,1.32849584,O=CCO[C@H](CO)[C@@H](O)C=O,26,2
+11,89.50753215,OC[C@H]1O[C@@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O)[C@@H](O)[C@H](O[C@H]5[C@H](O)[C@@H](O)[C@H](O[C@H]6[C@H](O)[C@@H](O)[C@H](O[C@H]7[C@H](O)[C@@H](O)[C@H](O[C@H]8[C@H](O)[C@@H](O)[C@H](O[C@H]9[C@H](O)[C@@H](O)[C@H](O[C@H]%10[C@H](O)[C@@H](O)[C@H](O[C@H]%11[C@H](O)[C@@H](O)[C@H](O[C@H]%12[C@H](O)[C@@H](O)[C@H](O[C@H]%13[C@H](O)[C@@H](O)[C@H](O[C@H]%14[C@H](O)[C@@H](O)[C@H](O[C@H]%15[C@H](O)[C@@H](O)[C@H](O[C@H]%16[C@H](O)[C@@H](O)[C@H](O[C@H]%17[C@H](O)[C@@H](O)[C@H](O[C@H]%18[C@H](O)[C@@H](O)[C@H](O[C@H]%19[C@H](O)[C@@H](O)[C@H](O[C@H]%20[C@H](O)[C@@H](O)[C@H](O[C@H]%21[C@H](O)[C@@H](O)[C@H](O[C@H]%22[C@H](O)[C@@H](O)[C@H](O[C@H]%23[C@H](O)[C@@H](O)[C@H](O[C@H]%24[C@H](O)[C@@H](O)[C@H](O[C@H]%25[C@H](O)[C@@H](O)[C@H](O[C@H]%26[C@H](O)[C@@H](O)[C@H](O[C@H]%27[C@H](O)[C@@H](O)[C@H](O[C@H]%28[C@H](O)[C@@H](O)[C@H](O[C@H]%29[C@H](O)[C@@H](O)[C@H](O[C@H]%30[C@H](O)[C@@H](O)CO[C@@H]%30CO)O[C@@H]%29CO)O[C@@H]%28CO)O[C@@H]%27CO)O[C@@H]%26CO)O[C@@H]%25CO)O[C@@H]%24CO)O[C@@H]%23CO)O[C@@H]%22CO)O[C@@H]%21CO)O[C@@H]%20CO)O[C@@H]%19CO)O[C@@H]%18CO)O[C@@H]%17CO)O[C@@H]%16CO)O[C@@H]%15CO)O[C@@H]%14CO)O[C@@H]%13CO)O[C@@H]%12CO)O[C@@H]%11CO)O[C@@H]%10CO)O[C@@H]9CO)O[C@@H]8CO)O[C@@H]7CO)O[C@@H]6CO)O[C@@H]5CO)O[C@@H]4CO)O[C@@H]3CO)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1O,1309,2
+12,2.41748279,C[Si](O)(O)OC[C@H]1OC[C@H](O)[C@@H](O)[C@@H]1O,46,3
+13,2.12085571,O=C(O)[C@H]1OC[C@H](O)[C@@H](O)[C@@H]1O,39,2
+,3.33853,OCc1cccnc1.[Zn],15,4
+,2.260286,OCc1cccnc1.[Cd],15,4
+,2.956102,OCc1cc(cc(c1)C(=O)[O-])C(=O)[O-].[Cd],37,3
+,3.376441,OCC1=NC(=C([N]1)C(=O)O)C(=O)[O-].[Zn],37,4
+,3.215921,OCc1[nH]c2c(n1)cc(cc2)C(=O)[O-].[Zn],36,4
+,3.383674,OCc1[nH]c2c(n1)cc(cc2)C(=O)[O-].[Zn],36,4
+,3.288652,OCc1[nH]c2c(n1)cc(cc2)C(=O)[O-].[Cd],36,4
+,2.928472,OCc1[nH]c(c(n1)C(=O)O)C(=O)[O-].OCc1[nH]c(c(n1)C(=O)[O-])C(=O)O.[Ba],68,4
+,4.203028,OCC(CO)[O].[K],14,3
+,3.365391,OCC(C(CO)O)O.[Zn],17,3
